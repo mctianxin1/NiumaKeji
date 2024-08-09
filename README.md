@@ -8,3 +8,8 @@
   - InfinityExpansion
   - FinalTECH
   - RykenSlimeCustomizer
+# 注意
+本附属可以在不经过同意的情况下进行转载，但是必须详细标明出处
+禁止发布自己修改过的附属
+自己修改过的附属可以用于自己的服务器，也可以私下发给朋友
+禁止用本附属进行盈利
