@@ -4,11 +4,16 @@
 - 同时也非常的肝
 - 这个附属不会像海曼科技的分子重组仪那样制造一些材料就随随便便让玩家等待几个小时
 - 附属的前置有:
-  - Slimefun
   - InfinityExpansion
-  - FinalTECH
-  - RykenSlimeCustomizer
+  - LiteXpansion
+  - FinalTECH-Changed
   - FoxyMachines
+  - AlchimiaVitae
+  - FlowerPower
+  - SlimefunWarfare
+  - CrystamaeHistoria
+  - TranscEndence
+  - Networks
 # 注意
 - 禁止在未经允许的情况下转载本附属
 - 禁止发布自己修改过的附属(在经过允许的情况下可以发布但必须表明原作出处)
