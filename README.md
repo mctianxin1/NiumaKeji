@@ -16,11 +16,11 @@
   - Networks<网络拓展>
 # 前置附属下载
 - 构建好的乱序改版:
-  - d
+  - https://wwp.lanzoup.com/iY1O128o34bi 提取码: 9521
 - 网络拓展:
   - https://github.com/ytdd9527/NetworksExpansion
 - 其他附属:
-  - d
+  - https://builds.guizhanss.com/
 # 注意
 - 禁止在未经允许的情况下转载本附属
 - 禁止发布自己修改过的附属(在经过允许的情况下可以发布但必须表明原作出处)
