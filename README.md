@@ -14,11 +14,10 @@
   - CrystamaeHistoria<魔法水晶编年史>
   - TranscEndence<末地科技>
   - Networks<网络拓展>
+  - GeneticChickengineering<鸡因工程>
 # 前置附属下载
 - 构建好的乱序改版:
   - https://wwp.lanzoup.com/i214Y28o4cef 提取码: 9521
-- 网络拓展:
-  - https://github.com/ytdd9527/NetworksExpansion
 - 其他附属:
   - https://builds.guizhanss.com/
 # 注意
